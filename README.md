@@ -13,7 +13,8 @@ A **Flutter** based food ordering application that allows users to browse and or
 
 ## Screenshots
 <!-- You can add images of your app screens -->
-![anasayfa](https://github.com/user-attachments/assets/135bd854-6754-4d4a-a51c-78b9a7d7ff93)![detaysayfa](https://github.com/user-attachments/assets/f1f116c1-4cee-4dd7-8c0e-4db968f4caff)![ödemesayfa](https://github.com/user-attachments/assets/0c009f47-2268-4693-8c87-e1bf8936e9e1)![tamamlandı_animasyonu](https://github.com/user-attachments/assets/256ae397-8857-4b38-b70f-832c5f36eee2)
+![ödemesayfa](https://github.com/user-attachments/assets/5029a67c-d4a4-4c3e-a0f4-a0f90b8532cf)![detaysayfa](https://github.com/user-attachments/assets/98fdeb22-bee0-40d1-914a-5acbdd76b97c)![anasayfa](https://github.com/user-attachments/assets/4b03a2a7-01a9-4b00-a016-2c7473d18bb5)![tamamlandı_animasyonu](https://github.com/user-attachments/assets/70bbb702-ea8e-43cf-ad33-8b178de20bb8)
+
 
 ## Getting Started
 
@@ -30,8 +31,8 @@ Follow these steps to run the project:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/FoodOrderApp-Flutter.git
-    cd FoodOrderApp-Flutter
+    git clone https://github.com/yourusername/FoodOrderApp-FlutterDart.git
+    cd FoodOrderApp-FlutterDart
     ```
 
 2. **Install dependencies**:
